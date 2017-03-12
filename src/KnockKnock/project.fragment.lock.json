@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "KnockKnock.Process/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5",
+      "compile": {
+        "bin/Debug/KnockKnock.Process.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/KnockKnock.Process.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/KnockKnock.Process.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
