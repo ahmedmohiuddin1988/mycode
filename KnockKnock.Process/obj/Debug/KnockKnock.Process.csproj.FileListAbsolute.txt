@@ -1,0 +1,5 @@
+C:\Learning\KnockKnock\KnockKnock.Process\bin\Debug\KnockKnock.Process.dll
+C:\Learning\KnockKnock\KnockKnock.Process\bin\Debug\KnockKnock.Process.pdb
+C:\Learning\KnockKnock\KnockKnock.Process\obj\Debug\KnockKnock.Process.dll
+C:\Learning\KnockKnock\KnockKnock.Process\obj\Debug\KnockKnock.Process.pdb
+C:\Learning\KnockKnock\KnockKnock.Process\obj\Debug\KnockKnock.Process.csprojResolveAssemblyReference.cache

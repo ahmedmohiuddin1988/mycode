@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication6</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication6.Controllers.FibonacciController.Get(WebApplication6.Model.FibParam)">
+            <summary>
+            Returns the nth fibonacci number
+            </summary>
+            <param name="n"></param>
+        </member>
+        <member name="M:WebApplication6.Controllers.ReverseWords.Get(System.String)">
+            <summary>
+            Reverses the letters of each word in a sentence.
+            </summary>
+            <param name="sentence"></param>
+        </member>
+        <member name="T:WebApplication6.Controllers.TokenController">
+             
+        </member>
+        <member name="M:WebApplication6.Controllers.TokenController.Get">
+            <summary>
+            Your token.
+            </summary>
+        </member>
+        <member name="M:WebApplication6.Controllers.TriangleTypeController.Get(WebApplication6.Model.TriParam)">
+            <summary>
+            Returns the type of triange given the lengths of its sides.
+            </summary>
+        </member>
+    </members>
+</doc>
