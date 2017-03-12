@@ -8,7 +8,7 @@ namespace KnockKnock.Process
 {
     public enum Triangle
     {
-        Scalene,
+        Scalene, 
         Isosceles,
         Equilateral,
         Error
